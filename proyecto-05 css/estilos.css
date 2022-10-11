@@ -1,0 +1,35 @@
+#color{
+    background-color: brown;
+}
+#imagen{
+    background-image: url(/messi.jpg)
+}
+#colortext{
+    color: blue;
+}
+#parrafo1{
+    text-align: left;
+}
+#parrafo2{
+    text-align: center;
+}
+#parrafo3{
+    text-align: right;
+}
+#borde{
+    border-width: 400px;
+    border-style: dashed;
+    border-color: blueviolet;
+}
+table{
+    border: 2px solid crimson;
+    border-collapse: collapse;
+}
+td{
+    border: 2px solid crimson;
+    border-collapse: collapse;
+}
+th{
+    border: 2px solid crimson;
+    border-collapse: collapse;
+}

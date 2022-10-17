@@ -33,3 +33,13 @@ th{
     border: 2px solid crimson;
     border-collapse: collapse;
 }
+#display{
+    display: flex;
+    justify-content: center;
+}
+#justify{
+    border: 2px solid red;
+    border-collapse: collapse;
+    display: flex;
+    justify-content: center;
+}
